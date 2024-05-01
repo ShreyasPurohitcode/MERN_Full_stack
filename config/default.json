@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://NewUser1:NewUser1@fsc.lfluojq.mongodb.net/DevBook",
+    "jwtSecret":"sdvsgdvsvdjsvdjsds"
+}
